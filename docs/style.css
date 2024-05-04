@@ -266,7 +266,7 @@ body {
     width: 100%;
     max-width: 1920px;
     height: 600px;
-    background:url(img/forest/photo0000-1490.jpg)no-repeat center/cover;
+    background:url(forest/photo0000-1490.jpg)no-repeat center/cover;
     position: relative;
 }
 
@@ -339,7 +339,7 @@ h2+p{
 }
 #serfpr{
     height: 600px;
-    background:url(img/forest/photo0000-3479.jpg)no-repeat center/cover;
+    background:url(forest/photo0000-3479.jpg)no-repeat center/cover;
     position: relative;
 }
 .serfpr-visual{
